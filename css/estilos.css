@@ -1,0 +1,51 @@
+
+
+
+body {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    color:black;font-family:"Lucida Sans Unicode","Lucida Grande",sans-serif; }
+h1{background-image:url(../img/sobre-background.jpg);}
+    h2{
+        border-bottom: 1px solid #333333;
+        padding: 10px;
+    }
+    
+figure /** Seletor de tag**/
+{
+    background-color:#f2eded;
+    border:1px solid #cccccc;
+    text-align:center;
+    
+
+}
+figcaption{
+    font-style: italic; 
+}
+h1{padding:10px;}
+h2{margin-top: 30px;}
+p{padding:0 45px;
+text-indent: 15px;
+text-align: justify; }
+figure{padding: 15px;
+margin: 30px;}
+
+#pelho/** Seletor de id**/{ float:right;
+    margin: 0 0 10px 10px;}
+#Centro-de-distribuição{
+    margin-left: auto;
+    margin-right: auto;
+    width:550px;
+
+}
+footer{
+    color:#777;
+    margin: 30px 0;
+    padding: 30px 0;
+}
+footer img{
+    margin-right:30px;
+    vertical-align: middle;
+    width: 94px;
+}
